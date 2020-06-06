@@ -1,1 +1,2 @@
-rancher-aws-walking-skeleton
+# rancher-aws-walking-skeleton
+An AWS EKS cluster registered with Rancher.
