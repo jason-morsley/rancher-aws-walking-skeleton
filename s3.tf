@@ -5,7 +5,7 @@
 data "aws_s3_bucket_object" "admin-token" {
 
   bucket = var.rancher_bucket
-  key    = "/admin_token.txt"
+  key    = "/rancher/admin_token.txt"
 
 }
 
